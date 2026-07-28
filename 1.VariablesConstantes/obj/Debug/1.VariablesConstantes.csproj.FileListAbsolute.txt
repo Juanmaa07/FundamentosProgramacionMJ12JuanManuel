@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\bin\Debug\1.VariablesConstantes.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\bin\Debug\1.VariablesConstantes.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\bin\Debug\1.VariablesConstantes.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\obj\Debug\1.VariablesConstantes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\obj\Debug\1.VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\obj\Debug\1.VariablesConstantes.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\1.VariablesConstantes\obj\Debug\1.VariablesConstantes.pdb
