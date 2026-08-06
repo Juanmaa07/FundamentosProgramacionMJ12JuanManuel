@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.pdb
