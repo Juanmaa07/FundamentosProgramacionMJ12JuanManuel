@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\bin\Debug\TallerdePráctica.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\bin\Debug\TallerdePráctica.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\bin\Debug\TallerdePráctica.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\obj\Debug\TallerdePráctica.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\obj\Debug\TallerdePráctica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\obj\Debug\TallerdePráctica.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\TallerdePráctica\TallerdePráctica\obj\Debug\TallerdePráctica.pdb
