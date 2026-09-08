@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\bin\Debug\Taller Ciclos.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\bin\Debug\Taller Ciclos.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\bin\Debug\Taller Ciclos.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\obj\Debug\Taller Ciclos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\obj\Debug\Taller Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\obj\Debug\Taller Ciclos.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\Taller Ciclos\Taller Ciclos\obj\Debug\Taller Ciclos.pdb
