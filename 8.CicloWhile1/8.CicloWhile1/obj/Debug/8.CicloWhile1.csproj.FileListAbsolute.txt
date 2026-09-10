@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\bin\Debug\8.CicloWhile1.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\bin\Debug\8.CicloWhile1.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\bin\Debug\8.CicloWhile1.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\obj\Debug\8.CicloWhile1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\obj\Debug\8.CicloWhile1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\obj\Debug\8.CicloWhile1.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\FundamentosProgramacionMJ12JuanManuel\8.CicloWhile1\8.CicloWhile1\obj\Debug\8.CicloWhile1.pdb
