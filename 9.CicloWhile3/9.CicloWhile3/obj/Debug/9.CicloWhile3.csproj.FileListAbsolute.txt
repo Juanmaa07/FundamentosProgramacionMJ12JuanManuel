@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe.config
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\bin\Debug\9.CicloWhile3.pdb
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.exe
+C:\Users\user\Desktop\Ejercicios y trabajos F Programación\Prácticas\9.CicloWhile3\9.CicloWhile3\obj\Debug\9.CicloWhile3.pdb
