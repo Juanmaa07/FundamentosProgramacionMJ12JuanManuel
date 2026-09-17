@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\bin\Debug\14.ArreglosUnidimensionales.exe.config
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\bin\Debug\14.ArreglosUnidimensionales.exe
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\bin\Debug\14.ArreglosUnidimensionales.pdb
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\obj\Debug\14.ArreglosUnidimensionales.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\obj\Debug\14.ArreglosUnidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\obj\Debug\14.ArreglosUnidimensionales.exe
+C:\Users\user\Desktop\Trabajos_Programación\FundamentosProgramacionMJ12JuanManuel\15.ArreglosUnidimensionales\14.ArreglosUnidimensionales\obj\Debug\14.ArreglosUnidimensionales.pdb
